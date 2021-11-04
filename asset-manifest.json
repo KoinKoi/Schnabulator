@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.16d4e7dc.chunk.css",
-    "main.js": "/static/js/main.19567abb.chunk.js",
-    "main.js.map": "/static/js/main.19567abb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0f098762.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0f098762.js.map",
-    "static/css/2.7ccfc5a4.chunk.css": "/static/css/2.7ccfc5a4.chunk.css",
-    "static/js/2.158c00e2.chunk.js": "/static/js/2.158c00e2.chunk.js",
-    "static/js/2.158c00e2.chunk.js.map": "/static/js/2.158c00e2.chunk.js.map",
-    "static/js/3.e616e56c.chunk.js": "/static/js/3.e616e56c.chunk.js",
-    "static/js/3.e616e56c.chunk.js.map": "/static/js/3.e616e56c.chunk.js.map",
+    "main.css": "/static/css/main.74438928.chunk.css",
+    "main.js": "/static/js/main.3cba2ae1.chunk.js",
+    "main.js.map": "/static/js/main.3cba2ae1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.345be1b4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.345be1b4.js.map",
+    "static/css/2.1f44515c.chunk.css": "/static/css/2.1f44515c.chunk.css",
+    "static/js/2.2fc3d560.chunk.js": "/static/js/2.2fc3d560.chunk.js",
+    "static/js/2.2fc3d560.chunk.js.map": "/static/js/2.2fc3d560.chunk.js.map",
+    "static/js/3.85e1bfad.chunk.js": "/static/js/3.85e1bfad.chunk.js",
+    "static/js/3.85e1bfad.chunk.js.map": "/static/js/3.85e1bfad.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.7ccfc5a4.chunk.css.map": "/static/css/2.7ccfc5a4.chunk.css.map",
-    "static/css/main.16d4e7dc.chunk.css.map": "/static/css/main.16d4e7dc.chunk.css.map",
-    "static/js/2.158c00e2.chunk.js.LICENSE.txt": "/static/js/2.158c00e2.chunk.js.LICENSE.txt"
+    "static/css/2.1f44515c.chunk.css.map": "/static/css/2.1f44515c.chunk.css.map",
+    "static/css/main.74438928.chunk.css.map": "/static/css/main.74438928.chunk.css.map",
+    "static/js/2.2fc3d560.chunk.js.LICENSE.txt": "/static/js/2.2fc3d560.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/OpenDyslexic-Regular.d9b06c5f.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f098762.js",
-    "static/css/2.7ccfc5a4.chunk.css",
-    "static/js/2.158c00e2.chunk.js",
-    "static/css/main.16d4e7dc.chunk.css",
-    "static/js/main.19567abb.chunk.js"
+    "static/js/runtime-main.345be1b4.js",
+    "static/css/2.1f44515c.chunk.css",
+    "static/js/2.2fc3d560.chunk.js",
+    "static/css/main.74438928.chunk.css",
+    "static/js/main.3cba2ae1.chunk.js"
   ]
 }
